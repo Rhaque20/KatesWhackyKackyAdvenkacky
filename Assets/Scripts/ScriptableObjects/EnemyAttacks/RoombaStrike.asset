@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8386d65bd9f123543a9da81b97a15f11, type: 3}
+  m_Name: RoombaStrike
+  m_EditorClassIdentifier: 
+  _hasSuperArmor: 0
+  _isMagic: 0
+  _modifier: 1.3
+  _affinity: 0
+  _animations:
+  - {fileID: 7400000, guid: bd38979cf0b7f654fba1a7ac6e6ed6bb, type: 2}
+  - {fileID: 7400000, guid: cd04bdc1d92e2e44faaf74f541f0b1f3, type: 2}
+  _isSpecial: 0
+  _knockbackForces: {x: 0, y: 0}
+  _selfPropelForces: {x: 0, y: 0}
+  _attackDelay: 2

@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8d4bd7449de159241a9516328b1889a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7561114539337823248
+    second: KateComboXXX_0
+  - first:
+      213: -6696727162945600146
+    second: KateComboXXX_1
+  - first:
+      213: 5090118112206615369
+    second: KateComboXXX_2
+  - first:
+      213: 6331864985470582343
+    second: KateComboXXX_3
+  - first:
+      213: -5125848120304001620
+    second: KateComboXXX_4
+  - first:
+      213: 4436974221488254336
+    second: KateComboXXX_5
+  - first:
+      213: -7980529920243269260
+    second: KateComboXXX_6
+  - first:
+      213: -7126019986988203239
+    second: KateComboXXX_7
+  - first:
+      213: -4635140673868905838
+    second: KateComboXXX_8
+  - first:
+      213: 7625003549166178122
+    second: KateComboXXX_9
+  - first:
+      213: 5766299843593377531
+    second: KateComboXXX_10
+  - first:
+      213: -6831775605286115825
+    second: KateComboXXX_11
+  - first:
+      213: -2838418655132288798
+    second: KateComboXXX_12
+  - first:
+      213: -5173875342544650543
+    second: KateComboXXX_13
+  - first:
+      213: -8117341131998142638
+    second: KateComboXXX_14
+  - first:
+      213: -7810570269072628127
+    second: KateComboXXX_15
+  - first:
+      213: 4419308365585038804
+    second: KateComboXXX_16
+  - first:
+      213: 8031859022763234732
+    second: KateComboXXX_17
+  - first:
+      213: -2840978486112110394
+    second: KateComboXXX_18
+  - first:
+      213: -3649123806705831492
+    second: KateComboXXX_19
+  - first:
+      213: -9215972652605097251
+    second: KateComboXXX_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KateComboXXX_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 284
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4ab01366811790800000000000000
+      internalID: -7561114539337823248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e650be640227013a0800000000000000
+      internalID: -6696727162945600146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 262
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9437bd6547bb3a640800000000000000
+      internalID: 5090118112206615369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 266
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e35b818ad4fd750800000000000000
+      internalID: 6331864985470582343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 264
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad1da0ea445dd8b0800000000000000
+      internalID: -5125848120304001620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 259
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6f5ddb8c439d30800000000000000
+      internalID: 4436974221488254336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710688f1567f3190800000000000000
+      internalID: -7980529920243269260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 202
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130c3db39a4b1d90800000000000000
+      internalID: -7126019986988203239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 200
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292441a7d1cacafb0800000000000000
+      internalID: -4635140673868905838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 200
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8427345471d960800000000000000
+      internalID: 7625003549166178122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf616c51823060050800000000000000
+      internalID: 5766299843593377531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06edb58848a031a0800000000000000
+      internalID: -6831775605286115825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 136
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e87ff09549eb98d0800000000000000
+      internalID: -2838418655132288798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de397fc9c3b238b0800000000000000
+      internalID: -5173875342544650543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 72
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f559a7f39695f80800000000000000
+      internalID: -8117341131998142638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 72
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166e2b2f8b74b9390800000000000000
+      internalID: -7810570269072628127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 72
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddbb934b89845d30800000000000000
+      internalID: 4419308365585038804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca591d10a35e67f60800000000000000
+      internalID: 8031859022763234732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b2c87e11d298d0800000000000000
+      internalID: -2840978486112110394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b0ef4b35bb5dc0800000000000000
+      internalID: -3649123806705831492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KateComboXXX_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda32c563b94a1080800000000000000
+      internalID: -9215972652605097251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KateComboXXX_0: -7561114539337823248
+      KateComboXXX_1: -6696727162945600146
+      KateComboXXX_10: 5766299843593377531
+      KateComboXXX_11: -6831775605286115825
+      KateComboXXX_12: -2838418655132288798
+      KateComboXXX_13: -5173875342544650543
+      KateComboXXX_14: -8117341131998142638
+      KateComboXXX_15: -7810570269072628127
+      KateComboXXX_16: 4419308365585038804
+      KateComboXXX_17: 8031859022763234732
+      KateComboXXX_18: -2840978486112110394
+      KateComboXXX_19: -3649123806705831492
+      KateComboXXX_2: 5090118112206615369
+      KateComboXXX_20: -9215972652605097251
+      KateComboXXX_3: 6331864985470582343
+      KateComboXXX_4: -5125848120304001620
+      KateComboXXX_5: 4436974221488254336
+      KateComboXXX_6: -7980529920243269260
+      KateComboXXX_7: -7126019986988203239
+      KateComboXXX_8: -4635140673868905838
+      KateComboXXX_9: 7625003549166178122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

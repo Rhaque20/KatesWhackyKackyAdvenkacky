@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 9cb6c278f9c6ccb4fa17e10e26a35e63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1622962809032761780
+    second: ElementSymbolsandEffects_0
+  - first:
+      213: 7089785721096590556
+    second: ElementSymbolsandEffects_1
+  - first:
+      213: -9203569827360470311
+    second: ElementSymbolsandEffects_2
+  - first:
+      213: -1162495580442412336
+    second: ElementSymbolsandEffects_3
+  - first:
+      213: -6778634747780137310
+    second: ElementSymbolsandEffects_4
+  - first:
+      213: 8939817096925096599
+    second: ElementSymbolsandEffects_5
+  - first:
+      213: -1532710915293020751
+    second: ElementSymbolsandEffects_6
+  - first:
+      213: -4421242268270559783
+    second: ElementSymbolsandEffects_7
+  - first:
+      213: -7087809898371427458
+    second: ElementSymbolsandEffects_8
+  - first:
+      213: 3839995502638469782
+    second: ElementSymbolsandEffects_9
+  - first:
+      213: -2561599051767545829
+    second: ElementSymbolsandEffects_10
+  - first:
+      213: -9115938601988212057
+    second: ElementSymbolsandEffects_11
+  - first:
+      213: 2146547792425178635
+    second: ElementSymbolsandEffects_12
+  - first:
+      213: -3281384992455443913
+    second: ElementSymbolsandEffects_13
+  - first:
+      213: 4637480282969147702
+    second: ElementSymbolsandEffects_14
+  - first:
+      213: -7394390890407270840
+    second: ElementSymbolsandEffects_15
+  - first:
+      213: 1174769672337043138
+    second: ElementSymbolsandEffects_16
+  - first:
+      213: -4774646328210753070
+    second: ElementSymbolsandEffects_17
+  - first:
+      213: 4244266143073654412
+    second: ElementSymbolsandEffects_18
+  - first:
+      213: 6488004145725468681
+    second: ElementSymbolsandEffects_19
+  - first:
+      213: -6093415146011680031
+    second: ElementSymbolsandEffects_20
+  - first:
+      213: -3344096992331178959
+    second: ElementSymbolsandEffects_21
+  - first:
+      213: 4584982528663828484
+    second: ElementSymbolsandEffects_22
+  - first:
+      213: 4324306585895245649
+    second: ElementSymbolsandEffects_23
+  - first:
+      213: 6966839701363068475
+    second: ElementSymbolsandEffects_24
+  - first:
+      213: -2746952186512645194
+    second: ElementSymbolsandEffects_25
+  - first:
+      213: 630349931101092107
+    second: ElementSymbolsandEffects_26
+  - first:
+      213: 9130664880179875728
+    second: ElementSymbolsandEffects_27
+  - first:
+      213: -9146502757154870774
+    second: ElementSymbolsandEffects_28
+  - first:
+      213: 78639456350040503
+    second: ElementSymbolsandEffects_29
+  - first:
+      213: -3781201769931397893
+    second: ElementSymbolsandEffects_30
+  - first:
+      213: 4291874880937303147
+    second: ElementSymbolsandEffects_31
+  - first:
+      213: 7535497819282738275
+    second: ElementSymbolsandEffects_32
+  - first:
+      213: -8250265365929223038
+    second: ElementSymbolsandEffects_33
+  - first:
+      213: 2166794308475860006
+    second: ElementSymbolsandEffects_34
+  - first:
+      213: 2505591418768953991
+    second: ElementSymbolsandEffects_35
+  - first:
+      213: 5755597809026679193
+    second: ElementSymbolsandEffects_36
+  - first:
+      213: 4288976200164825784
+    second: ElementSymbolsandEffects_37
+  - first:
+      213: -5108945361671681558
+    second: ElementSymbolsandEffects_38
+  - first:
+      213: 7185565538465465838
+    second: ElementSymbolsandEffects_39
+  - first:
+      213: 6721501672710246280
+    second: ElementSymbolsandEffects_40
+  - first:
+      213: 6639555849371645182
+    second: ElementSymbolsandEffects_41
+  - first:
+      213: -4407221567407250435
+    second: ElementSymbolsandEffects_42
+  - first:
+      213: 3710409863408861162
+    second: ElementSymbolsandEffects_43
+  - first:
+      213: 2991593130154546222
+    second: ElementSymbolsandEffects_44
+  - first:
+      213: -9046247027501260112
+    second: ElementSymbolsandEffects_45
+  - first:
+      213: -7380494823264087167
+    second: ElementSymbolsandEffects_46
+  - first:
+      213: -7786146998868420770
+    second: ElementSymbolsandEffects_47
+  - first:
+      213: 5259667873158675965
+    second: ElementSymbolsandEffects_48
+  - first:
+      213: -875307170236766710
+    second: ElementSymbolsandEffects_49
+  - first:
+      213: -6540358349684453533
+    second: ElementSymbolsandEffects_50
+  - first:
+      213: -7598771280688776318
+    second: ElementSymbolsandEffects_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireSymbol
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9eeb8ce31a79e0800000000000000
+      internalID: -1622962809032761780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WindSymbol
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4599fcc8af36260800000000000000
+      internalID: 7089785721096590556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterSymbol
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0dae210a564080800000000000000
+      internalID: -9203569827360470311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthSymbol
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab4c2cd6cfddfe0800000000000000
+      internalID: -1162495580442412336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Fire
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef1749c937de1a0800000000000000
+      internalID: -6778634747780137310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Fire2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a2f23d84c901c70800000000000000
+      internalID: 8939817096925096599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Fire3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd789e0b87babae0800000000000000
+      internalID: -1532710915293020751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Wind
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd7acde49794a2c0800000000000000
+      internalID: -4421242268270559783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Wind2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d214437a03ad90800000000000000
+      internalID: -7087809898371427458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Wind3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6921dd180976a4530800000000000000
+      internalID: 3839995502638469782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Water
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b100b6efb3f537cd0800000000000000
+      internalID: -2561599051767545829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Water2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aab83ac32ead7180800000000000000
+      internalID: -9115938601988212057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Water3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d6e428d11acd10800000000000000
+      internalID: 2146547792425178635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Earth
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a35612cbd2672d0800000000000000
+      internalID: -3281384992455443913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Earth2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63901473fb3ab5040800000000000000
+      internalID: 4637480282969147702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Effect_Earth3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e3ee89a8d16990800000000000000
+      internalID: -7394390890407270840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dca42344864773546b9652613ec1d15f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: b3d0f3557148f124c978438d64c7f10b, type: 3}
+      name: _Emission
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthSymbol: -1162495580442412336
+      Effect_Earth: -3281384992455443913
+      Effect_Earth2: 4637480282969147702
+      Effect_Earth3: -7394390890407270840
+      Effect_Fire: -6778634747780137310
+      Effect_Fire2: 8939817096925096599
+      Effect_Fire3: -1532710915293020751
+      Effect_Water: -2561599051767545829
+      Effect_Water2: -9115938601988212057
+      Effect_Water3: 2146547792425178635
+      Effect_Wind: -4421242268270559783
+      Effect_Wind2: -7087809898371427458
+      Effect_Wind3: 3839995502638469782
+      FireSymbol: -1622962809032761780
+      WaterSymbol: -9203569827360470311
+      WindSymbol: 7089785721096590556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

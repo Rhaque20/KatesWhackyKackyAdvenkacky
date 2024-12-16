@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af064e833ac297a498c9efa133ef6111, type: 3}
+  m_Name: KateDJX
+  m_EditorClassIdentifier: 
+  _hasSuperArmor: 0
+  _isMagic: 0
+  _modifier: 1.3
+  _affinity: 0
+  _animations:
+  - {fileID: 7400000, guid: b221897bb193e3f429c62a67ff4a39f1, type: 2}
+  - {fileID: 7400000, guid: baae1b43d471db64e8494dced7d35096, type: 2}
+  _isSpecial: 0
+  _knockbackForces: {x: 0, y: 0}
+  _selfPropelForces: {x: 0, y: 7.5}
+  _requiredComboString: DJX
+  _canConsumeAmmo: 1
+  _effectOnShuriken: 0
+  _endOfChain: 0
+  _missileDirection: {x: 0, y: -1}
+  _specialTag: 3

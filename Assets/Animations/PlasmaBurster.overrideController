@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlasmaBurster
+  m_Controller: {fileID: 9100000, guid: 3f5588d71216cde40ba78e7bbba4ba9d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0a677899a13346b478f3e2bb9b216249, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a7a4bdbe90876014886f8de7050ad5bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: efc4c3394ca49f44c80553083b08f43e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 278afaa7ced6f9e4a85e4b6c5735692c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf322985d7c69f746bf1fccc46957e3b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8abfa625804c3d42a71ad15cd8afb3f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 62dec9d9cfaa8704594842c778538d8a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22fda549f72805543b00440656e5f244, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8b6dd32cc0b65044584bf4adcbce112d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 858b3c03f25fc2149a10f065af1a2a88, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 34e9e19d9bb3df848b3825cd26b8b7c5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc2c4ffb688c5ce4cabeaf4446bf170b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1b018315472b12f40971425f2224c308, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c3074e91e3a1f22469f5feb2b58d5264, type: 2}

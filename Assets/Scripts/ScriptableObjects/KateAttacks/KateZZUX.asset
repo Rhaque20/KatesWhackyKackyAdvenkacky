@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af064e833ac297a498c9efa133ef6111, type: 3}
+  m_Name: KateZZUX
+  m_EditorClassIdentifier: 
+  _hasSuperArmor: 1
+  _isMagic: 0
+  _modifier: 1.1
+  _affinity: 0
+  _animations:
+  - {fileID: 7400000, guid: 6ecd1090e474dfb42a51bda50d247b35, type: 2}
+  - {fileID: 7400000, guid: 5e723ea2f2780b645ac4847fe515d686, type: 2}
+  _isSpecial: 0
+  _knockbackForces: {x: 0, y: 0}
+  _selfPropelForces: {x: 0, y: 0}
+  _requiredComboString: ZZ^X
+  _canConsumeAmmo: 0
+  _effectOnShuriken: 0
+  _endOfChain: 1
+  _missileDirection: {x: 0, y: 0}
+  _specialTag: 5

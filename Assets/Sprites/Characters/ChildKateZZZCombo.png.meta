@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 65cbf5e07724b4e49a80c0820c9e517e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4148537591340957252
+    second: ChildKateZZZCombo_0
+  - first:
+      213: -4650026519208205509
+    second: ChildKateZZZCombo_1
+  - first:
+      213: 1350063062171770116
+    second: ChildKateZZZCombo_2
+  - first:
+      213: -3495777468651167045
+    second: ChildKateZZZCombo_3
+  - first:
+      213: -8053367496416880501
+    second: ChildKateZZZCombo_4
+  - first:
+      213: 5582763823976169912
+    second: ChildKateZZZCombo_5
+  - first:
+      213: 424517970470202416
+    second: ChildKateZZZCombo_6
+  - first:
+      213: -8553358304097564395
+    second: ChildKateZZZCombo_7
+  - first:
+      213: 8165566761341613615
+    second: ChildKateZZZCombo_8
+  - first:
+      213: -3616460257557766376
+    second: ChildKateZZZCombo_9
+  - first:
+      213: -787817634520993499
+    second: ChildKateZZZCombo_10
+  - first:
+      213: 6329665556017627518
+    second: ChildKateZZZCombo_11
+  - first:
+      213: 2927730830715673521
+    second: ChildKateZZZCombo_12
+  - first:
+      213: -4612475433881317827
+    second: ChildKateZZZCombo_13
+  - first:
+      213: -7696082283083477807
+    second: ChildKateZZZCombo_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 200
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb184c26a0f6d66c0800000000000000
+      internalID: -4148537591340957252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e2768489c77fb0800000000000000
+      internalID: -4650026519208205509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 197
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ddf1db3336cb210800000000000000
+      internalID: 1350063062171770116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2ab37e9e08c7fc0800000000000000
+      internalID: -3495777468651167045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88156a3ee0bc3090800000000000000
+      internalID: -8053367496416880501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 136
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b140018e16f97d40800000000000000
+      internalID: 5582763823976169912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 135
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c65ae48d034e500800000000000000
+      internalID: 424517970470202416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 137
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51980a7a0fd5c4980800000000000000
+      internalID: -8553358304097564395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f087d4bbe15170800000000000000
+      internalID: 8165566761341613615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 72
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f93fb7e80cfcdc0800000000000000
+      internalID: -3616460257557766376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 72
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5217692190c1115f0800000000000000
+      internalID: -787817634520993499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 72
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c475894d77d750800000000000000
+      internalID: 6329665556017627518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb54c2cda361a820800000000000000
+      internalID: 2927730830715673521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ec944e7023dffb0800000000000000
+      internalID: -4612475433881317827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChildKateZZZCombo_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc1aa60f5023590800000000000000
+      internalID: -7696082283083477807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChildKateZZZCombo_0: -4148537591340957252
+      ChildKateZZZCombo_1: -4650026519208205509
+      ChildKateZZZCombo_10: -787817634520993499
+      ChildKateZZZCombo_11: 6329665556017627518
+      ChildKateZZZCombo_12: 2927730830715673521
+      ChildKateZZZCombo_13: -4612475433881317827
+      ChildKateZZZCombo_14: -7696082283083477807
+      ChildKateZZZCombo_2: 1350063062171770116
+      ChildKateZZZCombo_3: -3495777468651167045
+      ChildKateZZZCombo_4: -8053367496416880501
+      ChildKateZZZCombo_5: 5582763823976169912
+      ChildKateZZZCombo_6: 424517970470202416
+      ChildKateZZZCombo_7: -8553358304097564395
+      ChildKateZZZCombo_8: 8165566761341613615
+      ChildKateZZZCombo_9: -3616460257557766376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
